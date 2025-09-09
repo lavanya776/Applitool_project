@@ -13,7 +13,7 @@ This project provides a custom **Applitools Eyes + Selenium** framework for stri
 - Python 3.x  
 - Selenium WebDriver (Chrome)  
 - Applitools Eyes SDK  
-<img width="1919" height="787" alt="image" src="https://github.com/user-attachments/assets/17294861-e107-4117-9159-775f12011374" />
-
-<img width="1919" height="861" alt="image" src="https://github.com/user-attachments/assets/cdbdc86d-5ce2-4a29-bd78-d38efc871d7e" />
+<img width="600" height="700" alt="image" src="https://github.com/user-attachments/assets/17294861-e107-4117-9159-775f12011374" />
+</br>
+<img width="600" height="700" alt="image" src="https://github.com/user-attachments/assets/cdbdc86d-5ce2-4a29-bd78-d38efc871d7e" />
 
